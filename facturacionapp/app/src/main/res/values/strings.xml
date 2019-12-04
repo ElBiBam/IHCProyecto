@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Fullihc</string>
+
+    <string name="port_da">Revise todo el catalogo que tenemos para usted</string>
+
+    <string name="reg">Registrate gratis</string>
+    <string name="fb">Iniciar Sesion con Facebook</string>
+    <string name="goo">Iniciar Sesion con Google</string>
+    <string name="ini">Iniciar Sesion</string>
+
+    <string name="corr">Correo Electronico</string>
+    <string name="pass">Contraseña</string>
+    <string name="pass2">¿Olvidaste tu contraseña?</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottonnav">bottonnav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="repo">Preferencias</string>
+    <string name="repo2">Actividad</string>
+
+    <string name="un1">Explora</string>
+    <string name="un3">Black Friday</string>
+    <string name="un2">Recomendados</string>
+
+    <string name="nino">Niños</string>
+
+    <string name="supermercado">Supermercado</string>
+    <string name="electronica">Electronica</string>
+    <string name="hogar">Hogar</string>
+    <string name="ferreteria">Ferreteria</string>
+    <string name="deporte">Deporte</string>
+    <string name="farmacia">Farmacia</string>
+    <string name="belleza">Belleza</string>
+    <string name="motor">Motor</string>
+    <string name="libros">Libros</string>
+
+    <string name="camisa">Camisa cuadros</string>
+    <string name="laptop">Laptop acer</string>
+    <string name="refrigerador">Refrigerador</string>
+    <string name="ropade">Ropa deportiva</string>
+    <string name="mando">Mando xbox</string>
+
+    <string name="papa">Papa</string>
+    <string name="manzana">Manzana</string>
+    <string name="pera">Pera</string>
+    <string name="yogurt">Yogurt</string>
+    <string name="agua">Agua</string>
+    <string name="galletas">Galletas</string>
+
+</resources>

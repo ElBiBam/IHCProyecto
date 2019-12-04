@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fullihc</string>
+
+    <string name="port_da">Verifique todo o catálogo que temos para você</string>
+
+    <string name="reg">Inscreva-se grátis</string>
+    <string name="fb">Entrar com o Facebook</string>
+    <string name="goo">Entrar com o Google</string>
+    <string name="ini">Iniciar sessão</string>
+
+    <string name="corr">Correio eletrônico</string>
+    <string name="pass">Senha</string>
+    <string name="pass2">Esqueceu sua senha?</string>
+
+
+    <string name="repo">Preferências</string>
+    <string name="repo2">Atividade</string>
+
+    <string name="un1">Explorar</string>
+    <string name="un3">Black Friday</string>
+    <string name="un2">Recomendado</string>
+
+    <string name="nino">Crianças</string>
+
+    <string name="supermercado">Supermercado</string>
+    <string name="electronica">Eletrônicos</string>
+    <string name="hogar">Hogar</string>
+    <string name="ferreteria">Ferragens</string>
+    <string name="deporte">Esporte</string>
+    <string name="farmacia">Farmácia</string>
+    <string name="belleza">Beleza</string>
+    <string name="motor">Motor</string>
+    <string name="libros">Livros</string>
+
+    <string name="camisa">Camisa xadrez</string>
+    <string name="laptop">Laptop acer</string>
+    <string name="refrigerador">Geladeira</string>
+    <string name="ropade">Roupa esportiva</string>
+    <string name="mando">Controlador Xbox</string>
+
+    <string name="papa">Batata</string>
+    <string name="manzana">Maça</string>
+    <string name="pera">Pera</string>
+    <string name="yogurt">Iogurte</string>
+    <string name="agua">Agua</string>
+    <string name="galletas">Biscoito</string>
+
+</resources>

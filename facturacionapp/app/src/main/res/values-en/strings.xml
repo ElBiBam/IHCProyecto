@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fullihc</string>
+
+    <string name="port_da">Check all the catalog we have for you</string>
+
+    <string name="reg">Sign up free</string>
+    <string name="fb">Login with Facebook</string>
+    <string name="goo">Login with Google</string>
+    <string name="ini">Log in</string>
+
+    <string name="corr">Email</string>
+    <string name="pass">Password</string>
+    <string name="pass2">Did you forget your password?</string>
+
+
+    <string name="repo">Preferences</string>
+    <string name="repo2">Activity</string>
+
+    <string name="un1">Explore</string>
+    <string name="un3">Black Friday</string>
+    <string name="un2">Recommended</string>
+
+    <string name="nino">Kids</string>
+
+    <string name="supermercado">Supermarket</string>
+    <string name="electronica">Electronics</string>
+    <string name="hogar">Hogar</string>
+    <string name="ferreteria">Home</string>
+    <string name="deporte">Sport</string>
+    <string name="farmacia">Pharmacy</string>
+    <string name="belleza">Beauty</string>
+    <string name="motor">Engine</string>
+    <string name="libros">Books</string>
+
+    <string name="camisa">Checkered shirt</string>
+    <string name="laptop">Laptop acer</string>
+    <string name="refrigerador">Fridge</string>
+    <string name="ropade">Sportswear</string>
+    <string name="mando">Xbox controller</string>
+
+    <string name="papa">Potato</string>
+    <string name="manzana">Apple</string>
+    <string name="pera">Pear</string>
+    <string name="yogurt">Yogurt</string>
+    <string name="agua">Water</string>
+    <string name="galletas">Cookies</string>
+
+
+</resources>
